@@ -47,3 +47,6 @@ source setup.tcl
 - **Language**: SystemVerilog (IEEE 1800-2009)
 - **Verification**: SystemVerilog Assertions (SVA)
 - **Formal Tool**: Cadence Jasper
+
+## Authors : 
+- **Bashar Sulieman**
